@@ -61,7 +61,7 @@ Images:
         </div>      
       </main>
       <div className="code">
-        <a href="https://github.com/FilipeMts/FCC-Random-Quote-Machine.git" target="_blank" rel="noopener noreferrer">code is available here</a>
+        <a href="http://filipemts.github.io/FCC-Markdown-Previewer/" target="_blank" rel="noopener noreferrer">code is available here</a>
       </div> 
     </div>
   );
